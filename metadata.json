@@ -1,0 +1,5 @@
+{
+  "name": "ChefBot: WhatsApp Recipe Assistant",
+  "description": "A WhatsApp chat simulation where ChefBot, a multilingual master-chef assistant, helps you find recipes. The bot guides you through selecting a language, cuisine, and dish, then provides a detailed recipe with an image and allows you to save your favorites.",
+  "requestFramePermissions": []
+}
